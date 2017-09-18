@@ -6,4 +6,4 @@ Minimal setup for a webpack project. Just run
 npm run start
 ```
 
-to star the server locally on port 80880.
+to star the server locally on port 8080.
